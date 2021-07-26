@@ -32,7 +32,7 @@ genfstab -U /mnt >> /mnt/etc/fstab
 
 #Clone Archie2
 
-git clone https://github.com/presi300/Archie2 /mnt/Archie2
+git clone https://github.com/presi300/ArchieP2 /mnt/Archie2
 cp /mnt/Archie2/Archie2.sh /mnt
 chmod +rx /mnt/Archie2.sh
 rm -rf /mnt/Archie2
