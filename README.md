@@ -1,5 +1,5 @@
 # Archie
-Archie... A simple Arch Linux instalation script that does most of the annoying stuff for you! Just format your partitions, mount them, clone and run Archie.sh and follow the instructions and you will have a working Arch linux instalation with minimal effort!
+Archie... A simple Arch Linux installation script that does most of the annoying stuff for you! Just format your partitions, mount them, clone and run Archie.sh and follow the instructions and you will have a working Arch linux instalation with minimal effort!
 
 Now for some actual help stuff, because it's not quite click and run...
 
