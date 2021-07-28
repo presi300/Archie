@@ -42,9 +42,7 @@ arch-chroot /mnt /bin/bash -c ./Archie2.sh
 
 #Proceed to Archie2
 
-#After Archie2 finishes
 
-reboot
 
 
 
