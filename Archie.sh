@@ -51,7 +51,7 @@ read gr
 if [ $gr -eq 1 ]
 then
     pacstrap /mnt base linux linux-firmware base-devel nano
-if [ $gr -eq 2 ]
+elif [ $gr -eq 2 ]
 then
     pacstrap /mnt base linux-lts linux-firmware base-devel nano
 fi
