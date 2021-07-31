@@ -28,10 +28,10 @@ clear
 echo "Let's begin by partitioning our disks."
 echo "-------------------------------------------------------------------"
 echo "If you don't know what to do here, "
-echo "Type h to view the partitioning help..."
+echo "Type 1 to view the partitioning help..."
 echo "Press enter to continue without viewing the help file..."
 read help
-if [ $help -eq h ]
+if [ $help -eq 1 ]
 then
     vi /Archie/PARTHELP.txt
     echo "Press enter to enter the partition tool"
