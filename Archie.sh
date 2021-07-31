@@ -36,7 +36,7 @@ if [ $help -eq 1 ]
 then
     vi PARTHELP.txt
     echo "Press enter to enter the partition tool"
-    read er
+    read ex
 fi
 cfdisk
 
