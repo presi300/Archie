@@ -15,7 +15,7 @@ echo "The installer does not check what you have entered."
 echo "Make sure to follow all instructions carefully."
 echo "If the script errors out or you mistype something"
 echo "ctrl + c to stop it"
-echo "and type |bash Archie.sh|
+echo "and type |bash Archie.sh|"
 echo "-------------------------------------------------------------------"
 echo "Press enter to continue..."
 read er
