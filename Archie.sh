@@ -49,6 +49,7 @@ echo "-------------------------------------------------------------------"
 echo "Press enter to view partitions and disks..."
 read irt
 fdisk -l
+echo "-------------------------------------------------------------------"
 read -p "Enter root partition: " rootpart
 read -p "Enter swap partition (just press enter if none): " swappart 
 read -p "Enter EFI partition (just press enter if none): " efipart 
