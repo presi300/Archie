@@ -1,0 +1,66 @@
+ Hello! This is the Archie partitioning guide.
+ Please make sure to read this document carefully
+ if you don't know how to setup linux partitions.
+
+ Or google how to setup arch linux partitions.
+
+ 1. Upon exitting this file you will be prompted with
+ a screen asking you to setup a partition table.
+
+ There will be a couple of options but the only ones
+ you should care about are [dos] and [gpt].
+
+ Select [dos] if your computer is older and has a BIOS.
+ Select [gpt] if your computer is newer and has a UEFI.
+ If unsure select [dos].
+
+
+
+ 2. For [dos] you will need to create one partition
+ (and a 2nd one by choice).
+
+ Go to [ New ]  and hit enter to create a partition with the
+ appropriate for you size.
+ [EXAMPLE: Typing in 40G will create a partition with a size
+ of 40GiB (~42GB) and select [ primary ].
+
+ If you don't want to setup a swap partition,
+ you can exit the partitioning tool
+ by going to [ Write ], pressing enter, typing yes and
+ then going to [ Quit ] and pressing enter again.
+
+ If you want to setup swap, 1st thing you need to do
+ is again going to [ New ] and creating a partition
+ with the amount of swap you want.
+ [RECCOMMENDED: 4G]
+ Then go to [ Type ] and make that new partition you created the
+ [82  Linux swap / Solaris] type.
+ After you do that follow the instructions of the previous step.
+
+ After all is done exit the partitioning tool
+ by going to [ Write ], pressing enter, typing yes and
+ then going to [ Quit ] and pressing enter again.
+
+ (TYPE :q to exit the help file)
+
+
+
+ 3. For [gpt] you will need to create 2 partitions
+ (and a 3rd one by choice)
+
+ Go to [ New ]  and hit enter to create a partition
+ that is about 300M.
+ [HELP: Typing in 300M will create a partition with a size
+ of 300M  and select [ primary ].
+
+ Once you do that, go to [ Type ] and make that partition
+ the EFI type (it's located further down).
+
+ After you do that, follow the instructions
+ from 2.
+
+ (TYPE :q to exit the help file
+
+
+
+
