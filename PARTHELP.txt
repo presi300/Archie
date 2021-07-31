@@ -59,7 +59,7 @@
  After you do that, follow the instructions
  from 2.
 
- (TYPE :q to exit the help file
+ (TYPE :q to exit the help file)
 
 
 
