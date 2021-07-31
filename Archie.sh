@@ -2,7 +2,6 @@
 clear
 echo "Welcome to Archie! A simple terminal based installer for Arch linux"
 echo "-------------------------------------------------------------------"
-echo "Before we begin make sure all your partitions are formatted and mounted"
 echo "Press enter to begin"
 read pressenter
 
@@ -15,9 +14,8 @@ echo "-------------------------------------------------------------------"
 echo "The installer does not check what you have entered."
 echo "Make sure to follow all instructions carefully."
 echo "If the script errors out or you mistype something"
-echo "format your root partition by doing |mkfs.ext4 /dev/sdx1|"
-echo "[Where /dev/sdx1 is your root partition]"
-echo "and type |bash Archie.sh|"
+echo "ctrl + c to stop it"
+echo "and type |bash Archie.sh|
 echo "-------------------------------------------------------------------"
 echo "Press enter to continue..."
 read er
@@ -30,6 +28,7 @@ echo "Let's begin by partitioning our disks."
 echo "-------------------------------------------------------------------"
 echo "If you don't know what to do here, "
 echo "Type 1 to view the partitioning help..."
+echo ""
 echo "Press enter to continue without viewing the help file..."
 read help
 if [ $help -eq 1 ]
