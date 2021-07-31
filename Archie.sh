@@ -36,6 +36,7 @@ then
     vi /Archie/PARTHELP.txt
     echo "Press enter to enter the partition tool"
     read er
+fi
 cfdisk
 
 #TimedatectNTP
