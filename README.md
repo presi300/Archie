@@ -1,8 +1,26 @@
 # Archie
-Archie... A simple Arch Linux installation script that does most of the annoying stuff for you! Just format your partitions, mount them, clone and run Archie.sh and follow the instructions and you will have a working Arch linux instalation with minimal effort!
+Archie is a simple way to install arch linux on any computer!
+It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 
-Now for some actual help stuff, because it's not quite click and run...
+Now some actual help:
 
-To get started, you firstly need to boot of an arch linux iso. After you do that, do |pacman -Syy|. Then install git by doing |pacman -S git|. Then after installing git do |git clone https://github.com/presi300/Archie| then |cd Archie| and finally |bash Archie.sh|
+1. Boot from an arch linux iso/installation media.
 
+2. Type:
+>pacman -Syy
 
+3. Install git by typing:
+>pacman -S git
+
+4. Clone Archie from github:
+>git clone https://github.com/presi300/Archie
+
+5. Navigate to the Archie directory:
+>cd Archie
+
+6. Start Archie
+>bash Archie.sh
+
+7. Follow the on-screen instructions
+
+8. Done!
