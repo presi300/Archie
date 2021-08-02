@@ -6,8 +6,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 ## Now some actual help:
 
 **1. Boot from an arch linux iso/installation media.**
-
-
+** **
 **2. Type:**
 >pacman -Syy
 
