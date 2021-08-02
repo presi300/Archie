@@ -10,7 +10,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 **2. Type:**
 >pacman -Syy
 
-**3. Install git by typing:**
+**3. Install git:**
 >pacman -S git
 
 **4. Clone Archie from github:**
