@@ -51,5 +51,5 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 
 **-What about Nvidia drivers?**
 
->If you have used Archie, you would know that it doesn't have an option to setup Nvidia drivers, which is one of the main things new users struggle with.
+>If you have used Archie, you would know that it doesn't have an option to setup Nvidia drivers, which is one of the main things new users struggle with.\n
 >Simple: I have absolutely no way to test if the Nvidia drivers will work when setup with the script. Also i am not sure on what is the best way to setup Nvidia drivers, so that they don't break. Again... feedback and suggestions will go a long way here.
