@@ -27,6 +27,11 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 **8. Done!**
 
 ## Other stuff
+**-What is Archie?**
+
+>Archie is a simple bash script installer for arch linux. It's all terminal based. Simply enter your choice, hit enter and repeat until the end of the install.
+>
+>One important thing you should know before using Archie is that it is simple. It doesn't check for spelling mistakes or improperly formatted partitions. So read everything you type in twice.
 
 **-Who is Archie ment for?**
 
