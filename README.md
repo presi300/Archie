@@ -23,6 +23,5 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 >bash Archie.sh
 
 **7. Follow the on-screen instructions**
-
-
+** **
 **8. Done!**
