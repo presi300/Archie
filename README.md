@@ -14,7 +14,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 >pacman -S git
 
 **4. Clone Archie from github:**
->git clone **https://github.com/presi300/Archie**
+>git clone https://github.com/presi300/Archie
 
 **5. Navigate to the Archie directory:**
 >cd Archie
