@@ -26,7 +26,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 ** **
 **8. Done!**
 
-##Other stuff
+## Other stuff
 
 **-Who is Archie ment for?**
 
