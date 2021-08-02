@@ -5,25 +5,25 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 
 ### Now some actual help:
 
-1. Boot from an arch linux iso/installation media.
+**1. Boot from an arch linux iso/installation media.**
 
 
-2. Type:
+**2. Type:**
 >pacman -Syy
 
-3. Install git by typing:
+**3. Install git by typing:**
 >pacman -S git
 
-4. Clone Archie from github:
+**4. Clone Archie from github:**
 >git clone https://github.com/presi300/Archie
 
-5. Navigate to the Archie directory:
+**5. Navigate to the Archie directory:**
 >cd Archie
 
-6. Start Archie
+**6. Start Archie**
 >bash Archie.sh
 
-7. Follow the on-screen instructions
+**7. Follow the on-screen instructions**
 
 
-8. Done!
+**8. Done!**
