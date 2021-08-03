@@ -36,6 +36,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 **-Who is Archie ment for?**
 
 >Archie is made with complete linux beginners in mind. It's for people who want to try arch linux but have only used ubuntu or haven't tried linux at all.
+>
 >It's also made for people that in general just wanna try arch linux but aren't fully confident that they can install it.
 
 **-Why archie instead of archinstall?**
