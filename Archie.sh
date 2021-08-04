@@ -98,7 +98,7 @@ genfstab -U /mnt >> /mnt/etc/fstab
 
 #Copy Archie2
 
-cp Archie/Archie2 /mnt
+cp /Archie/Archie2/ /mnt
 cp /mnt/Archie2/Archie2.sh /mnt
 chmod +rx /mnt/Archie2.sh
 
