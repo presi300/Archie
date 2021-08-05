@@ -81,7 +81,9 @@ echo "Select a kernel type"
 echo "[If unsure, chose option 1]"
 echo "-------------------------------------------------------------------"
 echo "1 - Linux"
-echo "2 - Linux-lts"
+echo "2 - Linux-LTS"
+echo "3 - Linux-Zen"
+echo "4 - Linux-Hardened"
 echo ""
 read -p "Enter your choice: " gr
 if [ $gr -eq 1 ]
@@ -90,6 +92,13 @@ then
 elif [ $gr -eq 2 ]
 then
     pacstrap /mnt base linux-lts linux-firmware base-devel nano
+fi
+if [ $gr -eq 3 ]
+then
+    pacstrap /mnt base linux-zen linux-firmware base-devel nano
+elif [ $gr -eq 4 ]
+then
+    pacstrap /mnt base linux-hardened linux-firmware base-devel nano
 fi
 
 #Stab!
