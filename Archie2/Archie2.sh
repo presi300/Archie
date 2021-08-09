@@ -144,6 +144,7 @@ pacman -Syy
 
 #Xorg or wayland
 
+clear
 echo "Select a display server"
 echo ""
 echo "[If unsure select or you have an Nvidia graphics card, chose option 1]"
@@ -203,7 +204,7 @@ then
         echo ""
         echo "Press enter to proceed with installation..."
     fi
-
+fi
 #Xorg desktop
 
 clear
