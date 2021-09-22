@@ -45,7 +45,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 
 **-Any guarantee that Archie will work with anything?**
 
->No. Archie has been tested only with virtual machines (VMware, VirtualBox), as I simply do not have the time/hardware to test it on bare metal. But there is no reason why it shouldn't work.
+>Archie has been tested with both virtual machine software (VMWare/Virtualbox) with both BIOS and UEFI with very good results with both. That being said there is still no 100% guarantee it will work with EVERY hardware configuration.
 
 **-Is it better than archinstall?**
 
