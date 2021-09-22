@@ -43,7 +43,7 @@ It's simple. Boot from iso. Clone. Start. Follow installer instructions. Done!
 
 >*Archie* is a lot simpler than *archinstall* and sets up a lot more things for the end user. That might be a good or a bad thing, depending on how you look at it and how much you know about arch linux.
 
-**-Any guarantee that Archie will work with anything?**
+**-Any guarantee that Archie will work with everything?**
 
 >Archie has been tested with both virtual machine software (VMWare/Virtualbox) with both BIOS and UEFI with very good results with both. That being said there is still no 100% guarantee it will work with EVERY hardware configuration.
 
